@@ -1,8 +1,5 @@
 # ✈️ Airport Search App 
 This project is a performance-optimized airport search interface built with **Next.js** and **React**. It focuses on responsive UI, efficient API usage, and scalable rendering for large data sets.
-# ✈️ Airport Search App – Frontend Optimization Challenge
-
-This project is a performance-optimized airport search interface built with **Next.js** and **React**. It focuses on responsive UI, efficient API usage, and scalable rendering for large data sets.
 
 ## 🔍 Features & Optimizations
 
