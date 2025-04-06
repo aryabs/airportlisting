@@ -17,8 +17,8 @@ This project is a performance-optimized airport search interface built with **Ne
 
 ---
 
-### 🛠️ Backend 
-
+### 🛠️ Backend |
+|--|--------------|-------------|
 | 1 | **Cache the airports data since it's static |
 | 2 | **Pre-process data for more efficient searching |
 | 3 | **Simple substring matching (faster than regex for large datasets) |
